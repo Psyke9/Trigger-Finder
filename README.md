@@ -19,7 +19,7 @@
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/psyke9/TriggerFinder.git
+   git clone https://github.com/Psyke9/Trigger-Finder.git
    cd TriggerFinder
    ```
 
